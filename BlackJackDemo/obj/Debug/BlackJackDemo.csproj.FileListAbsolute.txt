@@ -1,0 +1,587 @@
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\berka\Desktop\BlackJackDemo\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+D:\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+D:\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+D:\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+D:\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+D:\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\01\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+D:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+E:\Yeni Yeni Mod\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.0.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+E:\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 1.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 1.2.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 2.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 2.1.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.7.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.7.7(OTOMATİK)\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.8.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+D:\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.8.1\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.8.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\Emir\Desktop\Version 0.9.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.9.5\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\BATUHAN\Desktop\Version 0.9.6\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+E:\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.7\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 0.9.9\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Users\Emir\Desktop\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe.config
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.exe
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\BlackJackDemo.pdb
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\bin\Debug\Control.Draggable.dll
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.AssemblyReference.cache
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.SuggestedBindingRedirects.cache
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form1.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form10.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form2.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form3.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form4.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form5.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form6.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form7.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form8.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Form9.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.Properties.Resources.resources
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.GenerateResource.cache
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CoreCompileInputs.cache
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.csproj.CopyComplete
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.exe
+C:\Version 1.0.0\BlackJackDemo1\BlackJackDemo\obj\Debug\BlackJackDemo.pdb
